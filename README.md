@@ -1,9 +1,11 @@
-# <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> CSharp - Teste de Condicional - If
+![banner CSharp - Teste de Condicional - If](https://github.com/AnaProgramando/CSharp_Teste-de-Condicional-If/blob/ed55bac117b14a56c81ceabae43b6c70e5545c68/CSharp_Teste-de-Condicional-If.png)
+----
 
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=32CD32&style=for-the-badge"/>
 
 <p align="center">
  <a href="#-welcome">Welcome</a> | 
+ <a href="#-csharp---teste-de-condicional---if">Teste de Condicional - If</a> |  
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-contatos">Contatos</a> | 
  <a href="#%EF%B8%8F-desenvolvedora">Desenvolvedora</a>
@@ -14,6 +16,10 @@
 Olá, seja muito bem vinda(o)! 
 
 Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar alguns projetos para quem tem interesse em aprender C#, por isso se trata de algo bem simples para quem gostaria de iniciar na programação ou precisa melhorar as suas habilidades.
+
+<br>
+
+## <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> CSharp - Teste de Condicional - If
 
 📚 Aproveite o código desse exercício
 
@@ -63,5 +69,5 @@ Se precisar de ajuda, entre em contato comigo 😉
 
 
 <div>
-  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/CSharp_Conversoes-Tipos-Numericos/blob/d13fff1383d6022d0a83160fb87725f6f8ec7fc0/bb.gif"/>
+  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/CSharp_Teste-de-Condicional-If/blob/ed55bac117b14a56c81ceabae43b6c70e5545c68/p.gif"/>
 </div>
